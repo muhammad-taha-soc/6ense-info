@@ -65,7 +65,7 @@ const Token = () => {
         </h3>
       </div>
 
-      <div className=" max-w-[865px] w-full mx-auto px-4">
+      <div className=" max-w-[865px] w-full mx-auto">
         <DonutChart />
       </div>
       <div className="pt-4 px-4">
